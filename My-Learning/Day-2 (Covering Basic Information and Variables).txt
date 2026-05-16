@@ -1,0 +1,4 @@
+- To use comments in python use haesh '#' symbol.
+- When you are writing print statement in python always take care of the case, print state should be in Lowercase
+- Make Use of special character '\n' to print in next line
+- Use 'clear' to clear your terminal to see the fresh output (best practice)
