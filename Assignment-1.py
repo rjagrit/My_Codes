@@ -3,7 +3,7 @@
 # Solution 
 
 # Method 1: Printing without Space
-# print("Jagrit Rattan" * 10)
+print("Jagrit Rattan" * 10)
 
 # Method 2: Printing name but each time it should be in new line/ next line
 
