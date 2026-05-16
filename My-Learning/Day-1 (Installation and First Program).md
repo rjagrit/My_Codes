@@ -16,5 +16,7 @@
 <img width="870" height="265" alt="image" src="https://github.com/user-attachments/assets/9992553c-7484-483c-9942-d804c388335f" />
 
 - Download and install VS Code -> Go to Extensions -> Search for Python and install it
-(so that Python extensions are allowed in VS Code and VD Code will help to write programs as well by completing the syntax)
+<img width="337" height="252" alt="image" src="https://github.com/user-attachments/assets/c3ce2774-4b14-4955-b3ab-ba97813e6832" />
+
+(so that Python extensions are allowed in VS Code, and VD Code will help to write programs as well by completing the syntax)
 <img width="1871" height="851" alt="image" src="https://github.com/user-attachments/assets/38773d06-d371-413b-a8a1-d87c66bb90e2" />
