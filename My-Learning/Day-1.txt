@@ -1,0 +1,7 @@
+- Download and Install Python in your system.
+- Go to Browser -> Type Python Install -> Install the latest version as Mentioned
+- Save in your Directory as well
+- Then install it
+- To check -> click on CMD -> type python -> you will see the version of python as well
+- Then search for ide for python and just to check type {print("Hello world from IDE !!")}
+- Download and Install VS Code -> Go to Extensions -> Search for Python and Install it (so that Python extensions are allowed in VS code and VD code will help to write program as well by completing the syntax)
